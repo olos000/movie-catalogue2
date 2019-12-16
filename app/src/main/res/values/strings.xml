@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">movie-catalogue2</string>
+    <string name="title_activity_bottom_nav">bottom_nav</string>
+    <string name="title_menu_movies">Movies</string>
+    <string name="title_menu_tvshow">TV Show</string>
+    <string name="title_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
